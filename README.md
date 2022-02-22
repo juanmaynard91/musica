@@ -1,19 +1,5 @@
-# vue-music
+TITULO: APP DE MUSICA 
 
-## Project setup
-```
-npm install
-```
+LINK: https://juanmaynard91.github.io/musica/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![vue-music](https://user-images.githubusercontent.com/74424452/155228896-359ed7e0-da3f-4445-b9c5-694fd31ae8cc.png)
