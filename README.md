@@ -1,4 +1,4 @@
-TITULO: APP DE MUSICA 
+TITULO: Aplicacion de Musica hecho con vue
 
 LINK: https://juanmaynard91.github.io/musica/
 
