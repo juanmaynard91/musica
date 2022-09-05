@@ -38,6 +38,7 @@ export default {
       current: {},
       index: 0,
       isPlaying: false,
+      player: new Audio(),
       songs: [
         {
           title: "Ace Aura Millennial Trash Self Sabotage",
@@ -67,8 +68,7 @@ export default {
           title: "Trivecta Wasteland",
           src: require("./assets/Trivecta Wasteland.mp3"),
         },
-      ],
-      player: new Audio(),
+      ]
     };
   },
 
