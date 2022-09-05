@@ -1,19 +1,5 @@
-# vue-music
+DESCIPCION: Aplicacion de musica hecho con vue
 
-## Project setup
-```
-npm install
-```
+LINK: asda
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![app-musica](https://user-images.githubusercontent.com/74424452/188350316-ba8cf17a-aee3-4416-8e62-02a675d471fd.png)
